@@ -1,5 +1,5 @@
 * {
-  font-family: "RobotoMono";
+  font-family: "Zac Regular";
 }
 
 @font-face {
@@ -8,8 +8,8 @@
 }
 
 @font-face {
-  font-family: RobotoMono;
-  src: url(fonts/RobotoMono-Italic-VariableFont_wght.ttf);
+  font-family: Zac Regular;
+  src: url(fonts/Zac Regular.ttf);
 }
 
 @font-face {
@@ -23,7 +23,7 @@
 }
 
 body {
-  background-color: #35133F;
+  background-color: #133337;
 }
 h1 {
   font-size: 300%; font-family: "Hujan"; color: #63B99B;
